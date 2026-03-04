@@ -14,5 +14,3 @@ Source is maintained in private repository `dmsap-hub-ui-private`.
 - Script: `ui.lua`
 <!-- AUTO-LATEST-END -->
 
-
-
